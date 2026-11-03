@@ -35,6 +35,7 @@
 
 
 // Prototype Chain
+
 // Jab JavaScript kisi object mein property ya method search karta hai, toh:
 // 1. Sabse pehle current object mein search karta hai.
 // 2. Agar nahi milta, toh uske prototype mein search karta hai.
