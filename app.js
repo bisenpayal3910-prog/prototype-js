@@ -3,6 +3,13 @@
 // Easy Hinglish mein samjho: Prototype ek aisa mechanism hai jisse JavaScript objects apne parent object se properties aur methods inherit kar sakte hain.
 
 
+// ================================================================================================
+
+// Prototype in JavaScript is an object that allows other objects to inherit properties and methods. Every JavaScript object has an internal link to its prototype, which helps in code reusability and inheritance. This mechanism is called prototypal inheritance.
+
+// ================================================================================================
+
+
 let person = {
     name: "Payal",
     city: "Balaghat",
